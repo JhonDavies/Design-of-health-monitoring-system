@@ -1,6 +1,6 @@
 # Design-of-health-monitoring-system
 #大四上课程设计留档
-//心率监测单片机程序 使用STM32 fireclass出品商
+//心率监测单片机程序 使用STM32 fireclass出品商<br>
 	//by 贾卓璇 2022.12.10  西安理工大学
 
 //支持程序移植，仅需更改宏文件配置管脚即可。
