@@ -9,4 +9,7 @@
 //keil文件在 project中。
 
 //驱动函数在User，采用板极支持包编写。<br>
+
+//上位机LabVIEW编写，其中物联网服务器需自己注册，详情访问: http://www.eeecontrol.com/<br>
+
 您若有任何疑问，欢迎留言讨论
