@@ -1,4 +1,5 @@
 # Design-of-health-monitoring-system
+##非商业用途自取
 ##大四上课程设计留档
 //心率监测单片机程序 使用STM32 fireclass出品商<br>
 	//by 贾卓璇 2022.12.10  西安理工大学
